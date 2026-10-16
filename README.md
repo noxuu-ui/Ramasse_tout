@@ -6,6 +6,7 @@ Unreal Engine 5.8.3
 
 
 
+Marty Pinier ajout de l'issue "Ajout de collectables"
 
 
 Marie\_Charlotte ruiz torres revuelta
